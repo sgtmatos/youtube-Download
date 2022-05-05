@@ -25,3 +25,10 @@ salvar variavel de ambiente
 2022-05-04 21:31:22,572 DEBUG pytube.streams download remaining: 0
 2022-05-04 21:31:22,573 DEBUG pytube.streams download finished
 2022-05-04 21:36:40,168 DEBUG pytube.streams file H:\python_unifael\FAEL Apresentac\u0327a\u0303o da metodologia.mp4 already exists, skipping
+
+
+
+
+https://acervolima.com/pytube-biblioteca-python-para-baixar-videos-do-youtube/
+
+
