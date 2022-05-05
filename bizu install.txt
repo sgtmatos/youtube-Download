@@ -1,0 +1,27 @@
+pip install pytube
+!pip install -U yt-dlp
+
+
+
+C:\Users\alpha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pytube
+alterar cipher.py
+
+273 #r'a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*'
+274 #r'\([a-z]\s*=\s*([a-zA-Z0-9$]{3})(\[\d+\])?\([a-z]\)',
+
+273 r'a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*'
+274 r'\([a-z]\s*=\s*([a-zA-Z0-9$]{2,3})(\[\d+\])?\([a-z]\)'
+
+---
+
+
+salvar variavel de ambiente
+
+
+------------------------------------------principais linhas do log-------------------------------------------------------------------------------------------------
+
+2022-05-04 21:31:20,294 DEBUG pytube.streams downloading (15142690 total bytes) file to H:\python_unifael\FAEL Apresentac\u0327a\u0303o da metodologia.mp4
+2022-05-04 21:31:21,888 DEBUG pytube.streams download remaining: 5705506
+2022-05-04 21:31:22,572 DEBUG pytube.streams download remaining: 0
+2022-05-04 21:31:22,573 DEBUG pytube.streams download finished
+2022-05-04 21:36:40,168 DEBUG pytube.streams file H:\python_unifael\FAEL Apresentac\u0327a\u0303o da metodologia.mp4 already exists, skipping

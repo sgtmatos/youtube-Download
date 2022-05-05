@@ -1,0 +1,84 @@
+2022-05-04 23:15:55,976 DEBUG pytube.helpers matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2022-05-04 23:15:57,057 DEBUG pytube.extract applying descrambler
+2022-05-04 23:15:57,065 DEBUG pytube.extract finding initial function name
+2022-05-04 23:15:57,071 DEBUG pytube.extract Pattern failed: ytplayer\.config\s*=\s*
+2022-05-04 23:15:57,072 DEBUG pytube.extract Could not parse object.
+2022-05-04 23:15:57,158 DEBUG pytube.extract finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2022-05-04 23:15:57,659 DEBUG pytube.cipher finding initial function name
+2022-05-04 23:15:58,313 DEBUG pytube.cipher finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2022-05-04 23:15:58,313 DEBUG pytube.cipher getting transform plan
+2022-05-04 23:15:58,314 DEBUG pytube.helpers matched regex search: qra=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2022-05-04 23:15:58,314 DEBUG pytube.cipher getting transform object
+2022-05-04 23:15:58,317 DEBUG pytube.cipher Finding throttling function name
+2022-05-04 23:15:58,319 DEBUG pytube.cipher finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]{2,3})(\[\d+\])?\([a-z]\)
+2022-05-04 23:15:58,325 DEBUG pytube.cipher Finding throttling function name
+2022-05-04 23:15:58,326 DEBUG pytube.cipher finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]{2,3})(\[\d+\])?\([a-z]\)
+2022-05-04 23:15:58,338 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,338 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,338 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,339 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:15:58,560 DEBUG pytube.streams downloading (7640105 total bytes) file to H:\python_unifael\Super Técnico FAEL.mp4
+2022-05-04 23:15:59,811 DEBUG pytube.streams download remaining: 0
+2022-05-04 23:15:59,812 DEBUG pytube.streams download finished
+2022-05-04 23:15:59,813 DEBUG pytube.helpers matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2022-05-04 23:16:00,949 DEBUG pytube.extract applying descrambler
+2022-05-04 23:16:00,954 DEBUG pytube.extract finding initial function name
+2022-05-04 23:16:00,958 DEBUG pytube.extract Pattern failed: ytplayer\.config\s*=\s*
+2022-05-04 23:16:00,958 DEBUG pytube.extract Could not parse object.
+2022-05-04 23:16:01,023 DEBUG pytube.extract finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2022-05-04 23:16:01,023 DEBUG pytube.cipher finding initial function name
+2022-05-04 23:16:01,668 DEBUG pytube.cipher finished regex search, matched: (?P<sig>[a-zA-Z0-9$]+)\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2022-05-04 23:16:01,668 DEBUG pytube.cipher getting transform plan
+2022-05-04 23:16:01,668 DEBUG pytube.helpers matched regex search: qra=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2022-05-04 23:16:01,669 DEBUG pytube.cipher getting transform object
+2022-05-04 23:16:01,671 DEBUG pytube.cipher Finding throttling function name
+2022-05-04 23:16:01,672 DEBUG pytube.cipher finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]{2,3})(\[\d+\])?\([a-z]\)
+2022-05-04 23:16:01,676 DEBUG pytube.cipher Finding throttling function name
+2022-05-04 23:16:01,677 DEBUG pytube.cipher finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]{2,3})(\[\d+\])?\([a-z]\)
+2022-05-04 23:16:01,685 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,685 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,686 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:01,687 DEBUG pytube.extract signature found, skip decipher
+2022-05-04 23:16:04,918 DEBUG pytube.streams downloading (694895219 total bytes) file to H:\python_unifael\Novo Futuro a Partir da Crise.mp4
+2022-05-04 23:16:05,992 DEBUG pytube.streams download remaining: 685458035
+2022-05-04 23:16:09,204 DEBUG pytube.streams download remaining: 676020851
+2022-05-04 23:16:10,760 DEBUG pytube.streams download remaining: 666583667
+2022-05-04 23:16:15,492 DEBUG pytube.streams download remaining: 657146483
+2022-05-04 23:16:18,056 DEBUG pytube.streams download remaining: 647709299
+2022-05-04 23:16:20,077 DEBUG pytube.streams download remaining: 638272115
+2022-05-04 23:16:25,427 DEBUG pytube.streams download remaining: 628834931
+2022-05-04 23:16:27,519 DEBUG pytube.streams download remaining: 619397747
+2022-05-04 23:16:29,036 DEBUG pytube.streams download remaining: 609960563
+2022-05-04 23:16:30,505 DEBUG pytube.streams download remaining: 600523379
+2022-05-04 23:16:36,043 DEBUG pytube.streams download remaining: 591086195
+2022-05-04 23:16:37,999 DEBUG pytube.streams download remaining: 581649011
+2022-05-04 23:16:40,382 DEBUG pytube.streams download remaining: 572211827
+2022-05-04 23:16:46,268 DEBUG pytube.streams download remaining: 562774643
+2022-05-04 23:16:48,033 DEBUG pytube.streams download remaining: 553337459
+2022-05-04 23:16:49,396 DEBUG pytube.streams download remaining: 543900275
+2022-05-04 23:16:50,536 DEBUG pytube.streams download remaining: 534463091
+2022-05-04 23:16:55,307 DEBUG pytube.streams download remaining: 525025907
+2022-05-04 23:16:58,059 DEBUG pytube.streams download remaining: 515588723
+2022-05-04 23:17:00,166 DEBUG pytube.streams download remaining: 506151539
